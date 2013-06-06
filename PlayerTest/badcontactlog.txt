@@ -1,0 +1,1 @@
+04-22 16:28:15.066: E/AndroidRuntime(25743): 	at com.badlogic.gdx.physics.box2d.World.beginContact(World.java:874)
